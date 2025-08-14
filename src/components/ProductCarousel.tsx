@@ -14,7 +14,7 @@ const ProductCarousel = () => {
       image: "/WhatsApp Image 2025-07-31 at 22.55.06 (1).jpeg",
       rating: 4.9,
       reviews: 127,
-      paymentLink: "https://pay.lunhor.shop/r/928q1E600Qf50sLgZ3n6"
+      paymentLink: "https://pay.lunhor.shop/pro-d902da63-6dc7-47c9-be05-146190f28efc"
     },
     {
       id: 2,
