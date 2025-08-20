@@ -14,7 +14,7 @@ const ProductCarousel = () => {
       image: "/WhatsApp Image 2025-07-31 at 22.55.06 (1).jpeg",
       rating: 4.9,
       reviews: 127,
-      paymentLink: "https://pay.lunhor.shop/pro-d902da63-6dc7-47c9-be05-146190f28efc"
+      paymentLink: "https://pay.lunhor.shop/checkout?product=794e67aa-7e1d-11f0-bf90-46da4690ad53"
     },
     {
       id: 2,
@@ -25,7 +25,7 @@ const ProductCarousel = () => {
       image: "/WhatsApp Image 2025-07-31 at 22.55.07 (1).jpeg",
       rating: 4.8,
       reviews: 89,
-      paymentLink: "https://pay.lunhor.shop/r/29yfkX67z02L106OdHOH"
+      paymentLink: "https://pay.lunhor.shop/checkout?product=aa3837d3-7e1d-11f0-bf90-46da4690ad53"
     },
     {
       id: 3,
@@ -36,7 +36,7 @@ const ProductCarousel = () => {
       image: "/WhatsApp Image 2025-07-31 at 22.55.07 (2).jpeg",
       rating: 4.9,
       reviews: 156,
-      paymentLink: "https://pay.lunhor.shop/r/214i05717fgfM4zUl"
+      paymentLink: "https://pay.lunhor.shop/checkout?product=7ce359fe-7e0e-11f0-bf90-46da4690ad53"
     },
     {
       id: 4,
@@ -47,7 +47,7 @@ const ProductCarousel = () => {
       image: "/WhatsApp Image 2025-07-31 at 22.55.06.jpeg",
       rating: 5.0,
       reviews: 203,
-      paymentLink: "https://pay.lunhor.shop/r/96AQIDhP36d10e0jT4"
+      paymentLink: "https://pay.lunhor.shop/checkout?product=3a5b4c06-7e1d-11f0-bf90-46da4690ad53"
     },
     {
       id: 5,
@@ -58,7 +58,7 @@ const ProductCarousel = () => {
       image: "/WhatsApp Image 2025-07-31 at 22.55.07 (3).jpeg",
       rating: 4.9,
       reviews: 178,
-      paymentLink: "https://pay.lunhor.shop/r/9480u142ksX917Mn5M"
+      paymentLink: "https://pay.lunhor.shop/checkout?product=e604fc5c-7e1d-11f0-bf90-46da4690ad53"
     }
   ];
 
